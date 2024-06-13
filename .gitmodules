@@ -1,0 +1,3 @@
+[submodule "minihs-scanner"]
+	path = minihs-scanner
+	url = http://gitlab.espol.edu.ec/gitadmin-cvr/minihs-scanner.git
